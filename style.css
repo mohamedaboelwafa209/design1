@@ -1,0 +1,174 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+@media only screen and(min-width:400px) and (max-width:1200px) {
+    body width: 35%,50%,35%,65%;
+    
+}
+#xx{
+    background-image: url("waves.png");
+
+}
+nav li{
+   display: inline-block;
+   padding: 5px;
+  
+   
+    
+}
+.bbb{
+    display: flex;
+margin: 20px; 
+ padding-left: 50PX;
+    padding-right: 50PX;
+list-style-type: none;
+justify-content: space-between;
+}
+div{
+    display: flex;
+
+    
+}
+
+#a{
+    height: 400px;
+    width: 300px;
+    position: absolute;
+    right: 230px;
+    z-index: 2;
+}
+#aa{
+    height: 600px;
+    width: 600px;
+    position: relative;
+   left: 350px; 
+    z-index: 1;
+}
+#aaa{
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    z-index: 3;
+    right: 150px;
+    top: 400px;
+}
+#e{
+    position: absolute;
+   right: 700px;
+   top: 300px;
+   font-size: 25px;
+}
+#rr{
+    position: absolute;
+    right:2px;
+}
+#vv{
+    position: relative;
+    left: 350px;
+    width: 50px;
+    padding-bottom: 20px;
+    
+}
+#nn{
+    position: relative;
+    left: 900px;
+    width: 50px;
+    padding-bottom: 30px;
+  
+}
+#q{
+    
+    font-size: 10px;
+    text-align: center;
+    
+}
+#w{
+text-align: right; 
+   font-size: 10px;
+   right: 100px;
+}
+#zz{
+    font-size: 10px;
+}
+#jj{
+background-image: url("second_section_.png"); 
+background-position: center;
+background-size: cover;   
+}
+#ll{
+    position: relative;
+}
+#uu{
+    position: absolute;
+    bottom: 80px;
+    font-size: 15px;
+   left: 30px;
+   color: white;
+}
+#pp{
+    display: flex;
+    justify-content: space-around;
+}
+#xz{
+    position: absolute;
+bottom: -850px;
+}
+#mnb{
+    display: flex;
+    margin: 5px;
+    justify-content: space-around;
+    background-image: url("Group 1131.png");
+background-position: center;
+background-size: cover;
+padding: 30px;
+    
+}
+.vb{
+    
+    border: 2px solid;
+    background-color: white;
+}
+
+.bv{
+    
+    border: 2px solid;
+    background-color: white;
+}
+#mn{
+   position: relative;
+width: 500px;
+bottom: 80px;
+left:  10px;
+
+   
+}
+
+    
+    
+
+#cont{
+    display: flex;
+   padding: 5px;
+  
+list-style-type: none;
+position: absolute;
+bottom: -1100px;
+
+
+
+left: 100px;
+
+}
+#hj{
+    position: absolute;
+bottom: -1050px;
+}
+#ioo{
+    justify-content: space-between;
+    padding: 20px;
+}
+
+
+
